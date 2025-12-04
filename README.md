@@ -219,7 +219,7 @@ The React app can be deployed to:
 - AWS S3 + CloudFront
 - GitHub Pages
 
-  
+ ** LIVE VIDEO:**
   WATCH HERE:
   https://drive.google.com/file/d/17LZLyGf4gWeqvVL5p9grBKutJjtmbT1V/view?usp=sharing
 
