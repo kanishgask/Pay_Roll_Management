@@ -218,7 +218,8 @@ The React app can be deployed to:
 - Netlify
 - AWS S3 + CloudFront
 - GitHub Pages
-
+  WATCH HERE:
+  https://drive.google.com/file/d/17LZLyGf4gWeqvVL5p9grBKutJjtmbT1V/view?usp=sharing
 ## 🤝 Contributing
 
 1. Fork the repository
